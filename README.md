@@ -2,6 +2,8 @@
 
 【本教程与Pandas官方最新发行版本保持同步，当前版本：[v-1.0.3](<https://github.com/pandas-dev/pandas/releases>)】
 
+[来自微信](<https://mp.weixin.qq.com/s/Em9gZehlYQ-SLp75AUre5g>)
+
 #### 一、写作初衷
 
 在使用Pandas之前，几乎所有的大型表格处理问题都是用xlrd/xlwt和python循环实现，虽然这已经几乎能完成一切的需求，但其缺点也显而易见，其一就是速度问题，其二就是代码的复用性几乎为0。
